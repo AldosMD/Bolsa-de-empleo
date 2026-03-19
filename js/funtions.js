@@ -13,3 +13,9 @@ function ayudante(){
 function seguridad(){
     window.location.href="vacantes/seguridad.html"
 }
+
+//Datos del postulado
+
+function postulacion(){
+    window.location.href="DatosDePostulado/Datosdelaspirante.html"
+}
