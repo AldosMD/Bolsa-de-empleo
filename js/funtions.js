@@ -16,6 +16,6 @@ function seguridad(){
 
 //Datos del postulado
 
-function postulacion(){
-    window.location.href="DatosDePostulado/Datosdelaspirante.html"
+function aspirante(){
+    window.location.href="registros/datos.html"
 }
